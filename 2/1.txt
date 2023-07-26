@@ -1,0 +1,1 @@
+reserve(v): đặt trước, để dành, dành quyền hạn cho mình
